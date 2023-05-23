@@ -26,14 +26,7 @@
 
 <br/>
 
-<h3> 📈 &nbsp;GitHub Analytics </h3>
 
-
-<a href="https://github.com/vamshisai98">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vamshisai98&show_icons=true&theme=merko&locale=en" alt="vamshisai" />
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vamshisai98&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="vamshisai" />
-</a>
 
 
 <br/>
